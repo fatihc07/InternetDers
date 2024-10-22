@@ -1,4 +1,4 @@
-# internet1
+# internet1 (2.hafta)
 
 Merhaba Dünya
 
