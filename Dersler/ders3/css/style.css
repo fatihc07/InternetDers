@@ -1,0 +1,27 @@
+p{
+
+    font-family: "Kablammo", system-ui;
+
+
+
+}
+
+form{
+
+ border: 3px solid blue ;
+ background-color: black;
+
+}
+
+.gonder{
+
+    color: brown;
+}
+
+.girisform input[type="submit"]{
+
+
+
+background-color: blueviolet;
+
+}
