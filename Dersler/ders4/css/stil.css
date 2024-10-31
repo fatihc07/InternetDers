@@ -1,0 +1,28 @@
+.ustpanel {
+
+    background-color: lightblue;
+    height: auto;
+    padding: 100px;
+    border-radius: 50px;
+    margin: 50px;
+    border: 15px solid green;
+    
+    
+   
+}
+
+
+
+.bir {
+    
+    height: 300px;
+    border: 5px solid greenyellow;
+    position: relative;
+}
+
+.iki {
+    
+    height: 300px;
+    background-color: lightcoral;
+    position: relative;
+}
