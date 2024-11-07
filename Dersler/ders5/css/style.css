@@ -1,0 +1,51 @@
+.hepsi{
+ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.anaiki{
+   background-color: chartreuse;
+   width: 300px;
+
+}
+
+.ana{
+
+   border: 3px solid orange;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+
+
+}
+
+.ilk{
+    
+    height: 200px;
+   
+    width: 200px;
+
+}
+
+.iki     {
+   
+    width: 200px;
+    background-color: yellow;
+    height: 400px;
+
+}
+
+.uc{
+   
+   background-color: black;
+    width: 200px;
+    color: white;
+    height: 200px;
+    padding: 10px;
+   
+}   
