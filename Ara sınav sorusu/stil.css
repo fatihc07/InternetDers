@@ -1,0 +1,88 @@
+body {
+    background-color: #f3f3f3;
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.ustmenu {
+
+    background-color: blue;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.anasayfa,.ilet,.hak {
+    padding: 10px;
+    background-color: brown;
+    margin: 5px;
+}
+
+
+.sagmenu{
+    display: flex;
+    justify-items: flex-end;
+}
+
+.kart {
+    background-color: white;
+    height: 200px;
+}
+
+.renk {
+    background-color: red;
+    height: 80px;
+}
+
+.buton {
+    background-color: blue;
+
+}
+
+.kartlar {
+    display: flex;
+    justify-content: center;
+}
+
+.kartsol {
+    background-color: white;
+    width: 200px;
+   
+
+    margin: 10px;
+}
+
+.urun {
+    padding: 20px;
+}
+#renk {
+    background-color: blue;
+    height: 80px;
+}
+
+.buton {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.formdivi {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+
+    ;
+}
+
+.ic {
+    padding: 100px;
+    background-color: bisque;
+}
