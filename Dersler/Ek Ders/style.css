@@ -1,0 +1,105 @@
+body {
+   
+    margin: 0;
+    padding: 0;
+    top: 0;
+    bottom: 0;
+    
+
+  
+}
+
+
+.baslik   { 
+    padding: 0;
+    margin: 0;
+    top: 0;
+    text-align: center; ;
+    background-color: blue;
+    height: 100px;
+    color:white;
+    
+
+
+ }
+
+ .menu {
+  
+   background-color: lightblue; 
+    height: 50px;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.menulink {
+  
+    margin-right: 30px;
+    margin-top: 15px;
+
+
+
+}
+.hosgeldin {
+   
+    background-color: lightgray;
+    text-align: center;
+    color: red;
+
+
+
+}
+
+
+.kart {
+    
+    height: 250px;
+    width: 200px;
+    border: 1px solid black;
+    margin-right: 20px;    
+}
+
+
+.kartyazi {
+ 
+    padding: 20px;
+
+}
+
+.sol {
+ 
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+
+.renk {
+    background-color: lightgreen;
+    height: 100px;
+
+}
+
+.blog {
+    display: flex;
+    justify-items: space-between;
+    margin-left: 10px;
+    
+    
+}
+
+.sag {
+    width: 100%;
+    border: 2px solid black;
+    background-color: lightslategray;
+    padding: 10px;
+
+}
+footer {
+  
+    background-color: navy;
+    text-align: center;
+    color: white;
+    height: 100px;
+}
+
