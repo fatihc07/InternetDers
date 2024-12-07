@@ -1,0 +1,56 @@
+body {
+
+    margin: 0;
+    padding: 0;
+}
+
+.sari{background-color: yellow;}
+
+
+@media screen and (max-width: 768px) {
+  .card{margin-bottom: 30px;}
+
+  
+
+
+
+}
+
+
+.anadiv{
+
+    margin: 0 auto;
+
+}
+
+    
+.bir {background-color: red;
+        width: 300px;
+        height: 300px;
+        z-index: 99;
+        display: block;
+}
+.iki {background-color: blue;
+    z-index: 98;
+    width: 300px;
+    height: 300px;
+    display: block;}
+
+
+    .resim img{
+        width: 300px;
+        height: auto
+    }
+
+    .img-fluid{
+        background-color: green;
+    }
+
+    .menu a:hover{
+        color: red;
+        font-size: 35px;
+    }
+    .menu2 a {
+        color: black;
+        font-size: 25px;
+    }
