@@ -1,0 +1,60 @@
+.navbar{
+    background-color: #FCF4C9;
+    position: relative;
+    display: block;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+
+
+
+}
+
+.carousel {
+   z-index: 1;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.formdiv {
+  background-color: brown;
+  padding: 30px;
+}
+
+
+.formdiv input[type='email'], .formdiv input[type=password] {
+  width: 100%;
+  color:yellow;
+  background-color: blue;
+    border: transparent;
+
+}
+.formdiv input[type='submit'] {
+  background-color: #4CAF50;
+  color: white;
+  display: block;
+  padding: 14px 20px;
+text-align: center;
+    margin:  0 auto;
+  border: none;
+  cursor: pointer;
+}
+
+.footer ul {
+    list-style-type: none;
+    
+}
+
+.footer  {
+
+    background-color: slategrey;
+    padding: 30px;
+    color:white
+}
+
+
+
