@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    left: 0;
+}
+
+
+
+.gri{
+display: flex;
+background-color: grey;
+height: 50px;
+justify-content: space-between;
+padding: 30px;
+}
+
+.anaresim img{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+
+}
+.anaresim{
+    position:  absolute;
+    z-index: 0;
+}
+.slogan{
+    position:  absolute;
+    z-index: 1;
+    padding: 50px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0, 0.3);
+    justify-content: center;
+    color:#fff; 
+    align-items: center;
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+ 
+}
+
+.container-fluid{
+    padding: 0;
+    left:0;
+    margin: 0;
+}
+
+ul li{
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.gri ul li {
+  
+    color: white;
+}
+button{
+
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: white;
+    background-color: red;
+}
+
+@media screen and (max-width: 992px) {
+   
+    .sagbuton {
+       margin-top: 50px;
+    }
+}
